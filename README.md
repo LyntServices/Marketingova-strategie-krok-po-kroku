@@ -1,4 +1,4 @@
-Marketingová analýza krok po kroku
+﻿Marketingová analýza krok po kroku
 ====================================
 
 Materiály k sérii článku o tvorbě marketingové strategie pomocí analýzy klíčových slov, Open Refine a dalších nástrojů.
@@ -19,3 +19,11 @@ Druhý díl seriálu:
 http://lynt.cz/blog/cistime-a-tagujeme-data-pomoci-open-refine
 
 Do OpenRefine budete importovat soubor advokati_klicova_slova.xls
+
+Třetí díl seriálu:
+##Vytváříme přehledy skupin pomocí Excelu##
+http://lynt.cz/blog/vytvarime-prehledy-skupin-pomoci-excelu
+
+Čtvrtý díl seriálu:
+##Rozdělení výrazů do podskupin, dokončení analýzy##
+http://lynt.cz/blog/rozdeleni-vyrazu-do-podskupin-dokonceni-analyzy
