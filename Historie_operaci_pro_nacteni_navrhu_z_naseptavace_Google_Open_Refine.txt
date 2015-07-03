@@ -28,7 +28,7 @@
   },
   {
     "op": "core/column-addition",
-    "description": "Create column Návrhy z našeptávače at index 3 based on column Načtená data using expression grel:value.parseJson()[1].join(',')",
+    "description": "Create column Návrhy z našeptávače at index 3 based on column Načtená data using expression grel:value.parseJson()[1].join(';')",
     "engineConfig": {
       "mode": "row-based",
       "facets": []
@@ -36,7 +36,7 @@
     "newColumnName": "Návrhy z našeptávače",
     "columnInsertIndex": 3,
     "baseColumnName": "Načtená data",
-    "expression": "grel:value.parseJson()[1].join(',')",
+    "expression": "grel:value.parseJson()[1].join(';')",
     "onError": "set-to-blank"
   }
 ]
